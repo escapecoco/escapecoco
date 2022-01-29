@@ -1,6 +1,6 @@
 Nice to meet you! 👋
 I’m @escapecoco
-Solo developer Fullstacks, Beginner, I make WebSite with ✨ beautifull Design ✨ by my hand ✋
+Solo developer Fullstacks, I make WebSite with ✨ beautifull Design ✨ by my hand ✋
 
 📫 To Reach me:
 Twitter - @escapecoco1
