@@ -1,5 +1,3 @@
-![escapecoco/gitartwork](gitartwork.svg)
-
 Nice to meet you! 👋
 I’m @escapecoco
 Solo developer Fullstacks, I make WebSite with ✨ beautifull Design ✨ by my hand ✋
