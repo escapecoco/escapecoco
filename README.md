@@ -24,3 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=escapecoco&show_icons=true&locale=en" alt="escapecoco" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=escapecoco&" alt="escapecoco" /></p>
+
+
+**- 📁 Useful Links:**
+
+https://aelweak.github.io/liens-utiles/ <br>
+https://creative-ressources.fr/
