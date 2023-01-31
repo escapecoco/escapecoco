@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=escapecoco&label=Profile%20views&color=278efc&style=flat" alt="escapecoco" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **@escapecoco1**
 
